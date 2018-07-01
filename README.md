@@ -1,0 +1,1 @@
+Coded in python to solve the PUZZLE 2x2, 3x3
